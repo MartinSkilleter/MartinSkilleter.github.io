@@ -1,4 +1,4 @@
-[portrait]: https://github.com/MartinSkilleter/MartinSkilleter.github.io/blob/master/WebsitePicture.jpg "ANU 2019 Science Prizes, Awards and Scholarships Presentation Ceremony"
+[portrait]: https://github.com/MartinSkilleter/MartinSkilleter.github.io/blob/master/WebsitePicture.png "ANU 2019 Science Prizes, Awards and Scholarships Presentation Ceremony"
 
 ![alt text][portrait]
 
