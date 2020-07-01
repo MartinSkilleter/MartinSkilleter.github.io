@@ -1,6 +1,6 @@
-[portrait]: https://github.com/MartinSkilleter/MartinSkilleter.github.io/blob/master/WebsitePicture.png "ANU 2019 Science Prizes, Awards and Scholarships Presentation Ceremony"
-
-![alt text][portrait]
+<img src="WebsitePicture.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 You can contact me at martin.skilleter@anu.edu.au
 
