@@ -1,5 +1,5 @@
 <img src="WebsitePicture.png"
-     alt="Markdown Monster icon"
+     alt="ANU 2019 Science Prizes, Awards and Scholarships Presentation Ceremony"
      style="float: left; margin-right: 10px;" />
 
 You can contact me at martin.skilleter@anu.edu.au
