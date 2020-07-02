@@ -8,7 +8,7 @@
 <div>
      
 <b>Email:</b> martin.skilleter@anu.edu.au
-**Phone:** +61 457 579 229
+<b>Phone:</b> +61 457 579 229
 
 </div>
 
