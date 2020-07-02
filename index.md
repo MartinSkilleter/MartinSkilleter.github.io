@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
-navigation_weight: 1
----
 
 <div class="intro">
 
