@@ -1,7 +1,7 @@
 
 <div class="intro">
 
-<img src="WebsitePicture.png"
+<img src="martin-skilleter.jpg"
      alt="ANU 2019 Science Prizes, Awards and Scholarships Presentation Ceremony"
      style="float: left; margin-right: 10px;" />
      
