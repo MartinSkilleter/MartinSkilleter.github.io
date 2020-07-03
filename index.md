@@ -1,9 +1,7 @@
 
 <img src="martin-skilleter.jpg"
      alt="ANU 2019 Science Prizes, Awards and Scholarships Presentation Ceremony"
-     style="float: left; margin-right: 10px;" />
-
-<br>
+     style="float: none; margin: auto;" />
 
 __Email:__ martin.skilleter@anu.edu.au <br>
 __Phone:__ +61 457 579 229
