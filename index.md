@@ -13,3 +13,5 @@ My name is Martin Skilleter and I am an undergraduate mathematics student at the
 - [K-Theory of C*-Algebras](./K-Theory of C-star Algebras.pdf)
 - [Invariants of Finite Groups](./Invariants of Finite Groups.pdf)
 
+You can also find a copy of my CV [here](.Martin Skilleter - Resume.pdf)
+
