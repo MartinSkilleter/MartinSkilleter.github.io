@@ -17,6 +17,7 @@ For further samples of my work, here are several projects I have completed under
 - [K-Theory of C*-algebras](./K-Theory of C-star Algebras.pdf)
 - [Invariants of finite groups](./Invariants of Finite Groups.pdf)
 - [The story of Fourier inversion](./The Story of Fourier Inversion.pdf)
+- [Khovanov homology and the Reidemeister moves](./Khovanov Homology.pdf)
 
 You can also find a copy of my CV [here](./Martin Skilleter CV.pdf).
 
