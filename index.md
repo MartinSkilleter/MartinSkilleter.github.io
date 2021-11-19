@@ -7,7 +7,7 @@ __Email:__ martin.skilleter@anu.edu.au <br>
 __Phone:__ +61 457 579 229
 
 My name is Martin Skilleter and I am a student at the Australian National University, graduating in December. I recently completed a thesis under the supervision of Uri Onn and Asilata Bapat, in which I investigated Deligne-Lusztig theory and character sheaves. The thesis, as well as a short recorded talk I gave outlining the project, can be found here:
-- [Deligne-Lusztig theory and Character Sheaves](./Deligne-Lusztig theory and character sheaves.pdf)
+- [Deligne-Lusztig theory and character sheaves](./Deligne-Lusztig theory and character sheaves.pdf)
 - [Honours project video](./Honours project video.mp4)
 
 For a sample of my work, here are several projects I have completed under the supervision of researchers at the [Mathematical Sciences Institute](http://maths.anu.edu.au/):
